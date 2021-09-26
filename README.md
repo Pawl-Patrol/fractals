@@ -1,5 +1,6 @@
 # fractals
 my first attempt at drawing fractals
+https://pawl-patrol.github.io/fractals/
 ## Features
 - different kinds of coloring
 - any kind of [Julia Sets](https://en.wikipedia.org/wiki/Julia_set)
